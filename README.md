@@ -25,3 +25,6 @@ Este repositorio contiene loa códigos que desarrollé para la temporada *Into t
 - Implementación de **tolerancia** para evitar movimientos innecesarios y optimizar el desempeño autónomo.
 - Métodos personalizados: `drive`, `strafe` y `turnTo` en la clase `Odometry`.
 
+### Créditos
+- **Phil Malone (2023)**: Implementación de la estrategia simplificada de odometría utilizada en este código.
+- **FTC Robotics Community**: Por compartir conocimientos y metodologías que ayudaron en la implementación del código.
